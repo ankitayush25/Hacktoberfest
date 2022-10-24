@@ -2,11 +2,9 @@
 Open for contribution.
 
 # Hacktoberfest-2022
-```bash
-Avoid editting this file...
-```
+![ezcv logo](https://github.com/ankitayush25/Hacktoberfest/blob/main/hacktoberfest.png)
 
-![Alt text]https://github.com/ankitayush25/Hacktoberfest/blob/main/hacktoberfest.png
+
 ## Create your HacktoberFest pull request to this repository
 
 
