@@ -10,3 +10,27 @@ Chef has RR rupees. Chef wants to buy exactly NN burgers. He also wants to maxim
 Output −1−1 if it is not possible for Chef to buy NN burgers.
 */
 
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+	int t;
+	cin>>t;
+	for(int i =1;i<=t;i++){
+		int x,y,n,r;
+		cin>>x>>y>>n>>r;
+		int nx = x*n;
+		int ny = y*n;
+		if(r<nx){
+			cout<<-1<<"\n";
+
+		}
+		else if(r>=ny){
+			cout<<"0"<<" "<<n<<"\n";
+		}
+		
+		else{
+			int num = (r-n*x)/(y-x);
+			cout<<n-num<<" "<<num<<"\n";
+		}
+	}
+}
