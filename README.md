@@ -6,8 +6,7 @@ Open for contribution.
 Avoid editting this file...
 ```
 
-![Alt text](hacktoberfest.webp)
-
+![Alt text]https://github.com/ankitayush25/Hacktoberfest/blob/main/hacktoberfest.png
 ## Create your HacktoberFest pull request to this repository
 
 
