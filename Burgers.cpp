@@ -1,4 +1,5 @@
-/*Problem
+/*Problem name- Burgers32
+link-https://www.codechef.com/problems/BURGERS2
 
 Chef is very hungry. So, Chef goes to a shop selling burgers. The shop has 22 types of burgers:
 
