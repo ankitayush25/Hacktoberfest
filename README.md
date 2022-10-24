@@ -4,6 +4,9 @@ Open for contribution.
 # Hacktoberfest-2022
 ![ezcv logo](https://github.com/ankitayush25/Hacktoberfest/blob/main/hacktoberfest.png)
 
+#Rules
+
+- Add your name and profile link in CONTRIBUTING.md file.
 
 ## Create your HacktoberFest pull request to this repository
 
