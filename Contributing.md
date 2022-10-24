@@ -1,5 +1,5 @@
 Rules to add a new problem in this repo:
 
-1. add platform name in file like : hackerrank,codechef,codeforces etc.
+1. add problem name in file.
 2. add problem link
 3. add code of this prob
