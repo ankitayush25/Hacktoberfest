@@ -5,4 +5,4 @@ Rules to add a new problem in this repo:
 3. add code of this problem
 
 
-![Mukul](https://github.com/Mukul65)
+![Mukul]https://github.com/Mukul65.md
